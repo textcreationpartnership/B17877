@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bishop of Canterbvry, his confession wherein is declared his constant resolution, his plots and indeavours to intraduce popery into England, and to advance the Roman Catholic religion : being from his owne hand, sent and directed to the Popes Holinesse : expressing to his Holinesse his sorrow for the unhappy successe, and failing of all his labours and endeavours for the advancement of popery.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17877</idno><idno type="EEBO-CITATION">12036861</idno>
+  <idno type="VID">196529</idno>
+  <idno type="EEBO-PROQUEST">2240922845</idno>
+  
+            <idno type="STC">Wing B3022</idno>
+            <idno type="OCLC">12036861</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 234:E31, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bishop of Canterbvry, his confession wherein is declared his constant resolution, his plots and indeavours to intraduce popery into England, and to advance the Roman Catholic religion : being from his owne hand, sent and directed to the Popes Holinesse : expressing to his Holinesse his sorrow for the unhappy successe, and failing of all his labours and endeavours for the advancement of popery.</title>
+                  <author>Laud, William, 1573-1645.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: William Land, Arch-Bishop of Canterbury.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Laud, William, 1573-1645.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196529:1"/>
+            <p>THE BISHOP OF CANTERBVRY <hi>His CONFESSION.</hi> WHEREIN Is declared his constant Resolution, his Plots, and indeavours, to intraduce Popery into <hi>England,</hi> and to advance the Roman Catholick RELIGION. Being from his owne hand, sent and directed to the POPES Holinesse. Expressing to his Holinesse his sorrow for the unhappy successe, and failing of all his labours and endeavours, for the Avancement of POPERY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 164<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="confession">
+            <pb facs="tcp:196529:2"/>
+            <pb n="1" facs="tcp:196529:2"/>
+            <head>THE BISHOP OF CANTERBURIES <hi>CONFESSION:</hi> Sent unto the Pope.</head>
+            <p>MOst holy Father of the Roman Catholike Church, (generally acknowledged the undoubted successour of Saint <hi>Peter,</hi> and Christs immediate Vicar) I hum<g ref="char:EOLhyphen"/>bly beseech your Holinesse, to meet this my Confession with the Armes of mercy, and excuse my unfortunate zeale for the promoting and enlarging of your Sea and Vniversall Episcopacy; I will now strip my soul naked, with as much humility as ever did any confessing penitent. Your Holinesse hath long since understood, that as soon as I knew Letters and Learning in the Vniversitie of Oxford, I addicted my studies to know the chief points and principles of the Roman Religion; on that foundation, I builded, all the structure of my Faith, yet kept my opinion secret, and did my Acts in the Schooles at Oxford <hi>(contra Papicolas)</hi> against the Papist, but in my heart I was <hi>(pro Papiculos)</hi> for (the Adorers of your Holinesse) the Papists.</p>
+            <pb n="2" facs="tcp:196529:3"/>
+            <p>And being chosen to be Governour of Saint <hi>Iohns</hi> in Ox<g ref="char:EOLhyphen"/>ford, which had in it then good wits, and propense to ambi<g ref="char:EOLhyphen"/>tion, these I cherished; and sent some of them to travell, un<g ref="char:EOLhyphen"/>der pretence of Accommodation of manners, but indeed to drinke in the ayre and Religion of forraign Countries; espe<g ref="char:EOLhyphen"/>cially, to season them with the salt and savory Holy water of your Sea, some of them returned again well instructed in the tenents of the Romish Church, and first in affection to the Supremacy of your Holinesse in all Ecclesiasticall matters, those imployd themselves <hi>(Semina Ecclesiae Catholicae spur<g ref="char:EOLhyphen"/>gere in vulgus)</hi> to sow the seeds of the Catholike Religion in the hearts of the common people, but they were such bad base, and barren ground, that they would receive nothing but the precise seed of Puritan Doctrine. <hi>Sed odi prophanum vulgus,</hi> I ever hated the simple common people, as things that ought to suffer; holding this for an Axiome:
+<q>
+                  <l>
+                     <hi>Anglica gens, Optima Flens,</hi>
+                  </l>
+                  <l>
+                     <hi>Pessima ridens.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>The English Nation were ever good when your Holinesse held a strict hand over them, and the Clergy were your Re<g ref="char:EOLhyphen"/>ceivers here in England; (which times the ignorant called the time of Popery) but now since the authority and power of your universall Bishopricke hath been expelled out of England, what is England but a Chaos of Confusion? An outside of Religion: Priest and people rebelling against God and their gracious King CHARLES, whom in my heart and soul I can never enough reverence; for after I had forsa<g ref="char:EOLhyphen"/>ken the Vniversitie of Oxford, and was known by the title of Doctor <hi>Lawd,</hi> and Bishop of St. <hi>Davids</hi> in Wales, I accor<g ref="char:EOLhyphen"/>ding to my name, thought that
+<q>
+                  <l>
+                     <hi>Magna placuisse viris non ultima laus est.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>That it was a point of wisdome to please great men, espe<g ref="char:EOLhyphen"/>cially,
+<pb n="3" facs="tcp:196529:3"/> my Soveraign King CHARLS and his good Queen, who being farre distant in opinion, I endeavoured to recon<g ref="char:EOLhyphen"/>cile them to the Roman Religion: The beams of the Kings favour shining on me, I flourished in the Court, by Policie more then by Divinity; and Bishop <hi>Abbot</hi> dying, I was by my Soveraigne made Archbishop of Canterbury, an honour (as your Holinesse well knowes, and was glad to understand) the greatest that could be conferred in England on a Church<g ref="char:EOLhyphen"/>man; having all power <hi>Iure Divino,</hi> in Ecclesiasticall mat<g ref="char:EOLhyphen"/>ters: And when I was advanced, I beganne to shew the <hi>('ENERGIA)</hi> and efficacie of that Roman belief, which I had formerly conceited; I did endeavour the advancement of your Holinesse Supremacy, and to establish the Catholicke Roman Religion, both in the doctrine and discipline of the Church of England, but unhappy events make bad the best intents; I did but <hi>(inita ova excludere)</hi> hatch some windy egs of my own desires, which in promoting your Holinesse Pa<g ref="char:EOLhyphen"/>pall dignity I could never effect; yet I beseech your Holines to take notice of your humble servants diligence in some par<g ref="char:EOLhyphen"/>ticulars, and grant my endeavors this favorable censure, <hi>Quod in magnis veluisse sat est,</hi> that the will in high attempts is to be accepted: when I was firmly seated in the Episcopall dig<g ref="char:EOLhyphen"/>nity, I caused the Vniversities to put on the opinions of the Roman Church, and made Arrianism the Cloak under which it should have entred in; all the most pregnant wits in the V<g ref="char:EOLhyphen"/>niversities were drawn to be Papists in heart, in hope of pre<g ref="char:EOLhyphen"/>ment, which I bestowed on those that ascribed all Ecclesiasti<g ref="char:EOLhyphen"/>call glory to your Holinesse; so that the springs of Learning (Oxford and Cambridge) finding how I carried on the streame of Religion untill it should come unto the Sea of Rome, began all to incline to advance Roman tenents, and all Heads of Houses were either Arrians or cordiall Papists.</p>
+            <pb n="4" facs="tcp:196529:4"/>
+            <p>The Colledges had in their Chappels, Altars erected, and so likewise, Altars were erected in most Churches in Eng<g ref="char:EOLhyphen"/>land, thus farre I had introduced something of the Romane Religion: and I brought in Ceremonies, as necessary mat<g ref="char:EOLhyphen"/>ters, besides Organs were heard in every Church on Sun<g ref="char:EOLhyphen"/>dayes, and to make Religion more pleasing unto the people, one Doctor <hi>Rocklington,</hi> did by appointment, write a Book intituled, <hi>Sunday no Sabboath;</hi> and all liberty was permitted on the Sabbath day, for the people (I know) would affect an easie and pleasant way of Religion, which by my contriving, was strewd with Roses, and faire shewes of Ceremonies.</p>
+            <p>And when I found that some of the Zealots, or English Puritans, endeavoured to oppose my Will, and to write and preach against me, as intending to raise the Hierarchy of the Clergy, who with my self, would have willingly become obedient sonnes unto you our Holy Father: I being exaspe<g ref="char:EOLhyphen"/>rated with high and divine rage, and holy indignation, I cau<g ref="char:EOLhyphen"/>sed divers of the Reformation, stirring and painfull Divines, to bee imprisoned. I had my Pantacousts or my Church Scouts, that went abroad to hear Sermons, and if they could bring me any accusation against the Puritan Preachers, I would interpret it to be a point of <hi>Lesae Maiestatis vel Reli<g ref="char:EOLhyphen"/>gionis,</hi> either Treason against Majestie, or against Piety: for I knew that Kings must be upheld in their greatnesse, that they might maintain us Bishops, under your Holinesse, who are the <hi>summum G<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nus,</hi> in the predicament of the Church: and under your Holinesse, all degrees of Clergy-men are consti<g ref="char:EOLhyphen"/>tuted by the differences of their severall Orders.</p>
+            <p>And besides, be pleased Holy Father to understand, that I confesse I was yours in heart and affection, striving to actu<g ref="char:EOLhyphen"/>ate and perform, what I could never bring to passe. I used all the meanes I could, to settle the Roman Religion in Ireland,
+<pb n="5" facs="tcp:196529:4"/> but was unhappy in obtaining my ends yet I did, proceed, <hi>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vere lapidem,</hi> to move forward every occasion, and every stone to the erecting and building up of the Roman Church, whereof your Holinesse is supreame Head.</p>
+            <p>And to that purpose, if any known Papist (as the Refor<g ref="char:EOLhyphen"/>mers call them) were brought before me, I examined them with all the mildnesse and favour that I, could extend to<g ref="char:EOLhyphen"/>wards them, multiplying their accusations: and patronizing and defending (as your Holinesse well knowes) some Priests and Roman seed men, as namely one a subtile Agent for your Holinesse and the Catholick Religion, also <hi>Sancta de clara,</hi> was by my meanes maintained and cherished, and kept a long time from the rigour of the lawes of England, that doth im<g ref="char:EOLhyphen"/>pose death on any of these Emissaries which are, sent out from Rome or other places to serve your holinesse, and dis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inate and sow abroad the Papall Religion: On the con<g ref="char:EOLhyphen"/>trary I discountenanced, and discouraged all the professours, of the Protestant Religion especially, those forward or rather factious fellowes, Master <hi>Burton,</hi> Master <hi>Brin,</hi> and Doctor <hi>Bastwick,</hi> men (as I thought of a strange temper, but being a Privy Counsellour, I sate upon them as their Iudge in the Star-Chamber, and condemned them with the rest of th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Counsell to an ignominious punishment which was to loose their eares, and after that kept them in prison: but all would not serve to suppresse the Reformed Religion, which I sought to change into that which they call Popery. And moreover I privately caused many Catholicks books to be printed and published, as namely the Book called, The Introductor to a divine life, and another intituled, The Epistle of Iesus Christ to a devout soule; and those books were licensed by my Chap<g ref="char:EOLhyphen"/>lain <hi>Haywood,</hi> and dispersed abroad amongst the English Catholicks.</p>
+            <pb n="6" facs="tcp:196529:5"/>
+            <p>But yet for all my industry, my favouring of knowing Papists, my policie, my printing of books, surprising of zealous preachers; I was unhappy in my proceedings, my intents layed open and discovered, and all the endeavours of my life for your holinesse and the Roman Religion destroy<g ref="char:EOLhyphen"/>ed in a moment; I was by the Parliament now assembled in England, together with my other fellow Bishops put out of the House of Parliament, and my selfe (as your Holinesse long since hath understood) was committed to the Tower, where I now remaine, and I that was once the feare, am now the indignation of the people; I look dayly to come to my grand tryall, and to receive the expected sentence of death, which I will undergoe like a Christian, my greatest sorrow being that I shall not live to doe your Holinesse that service, which I desired in advancing Popery and the Catholicke faith, yet that I might give your holinesse some accompt of my diligence and labours in the great businesse of the Ca<g ref="char:EOLhyphen"/>tholick Cause, I have sent unto your holy hands this Con<g ref="char:EOLhyphen"/>fession of my Life, and if I dye for my affection to your holinesse and the Papall seas, I will carry my prayers for your holinesse into Heaven, desiring also your holinesse. Benediction on your most humble and unhappy Servant,</p>
+            <closer>
+               <signed>WLLIAM LAUD <hi>Arch-Bishop</hi> of CANTERBURY.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
